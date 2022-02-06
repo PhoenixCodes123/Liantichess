@@ -6,7 +6,7 @@ import { model } from './main';
 
 export function aboutView(): VNode[] {
     const untitled = [
-        _("\Many Thanks to srimethan and Liantichess developers to derive this project."),
+        _("\Many Thanks to srimethan and Liantichess and Liatomic developers to derive this project."),
     ]
     return [
         h('div.about', [
@@ -16,10 +16,9 @@ export function aboutView(): VNode[] {
             h('p', [
                 // TODO Automate the generation of this list
                 _("Currently supported games are "),
-                h('a', { attrs: { href: 'https://liatomic.herokuapp.com/variants/atomic' } }, 'Atomic'),
+                h('a', { attrs: { href: 'https://liatomic.herokuapp.com/variants/atomic' } }, 'Racing kings'),
                 ", ",
-                h('a', { attrs: { href: 'https://liatomic.herokuapp.com/variants/atomic960' } }, 'Atomic960'),
-                ", ",
+               
 
             h('hr'),
             h('p', [
