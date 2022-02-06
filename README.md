@@ -1,12 +1,12 @@
 [![Nodejs-CI](https://github.com/SriMethan/Liantichess/actions/workflows/nodejs.yml/badge.svg)](https://github.com/SriMethan/Liantichess/actions/workflows/nodejs.yml)
 
-## Liatomic
+## Liracingkings
 
-Liatomic is a free, open-source antichess server designed to play antichess variants.
+Liracingkings is a free, open-source antichess server designed to play antichess variants.
 
 Currently supported games are:
 
-- [Atomic](https://liatomic.herokuapp.com/variants/atomic)
+- [RacingKings](https://liatomic.herokuapp.com/variants/atomic)
 - [Atomic960](https://liatomic.herokuapp.com/variants/atomic960)
 
 Additionally you can check Chess960 option in for Antichess
