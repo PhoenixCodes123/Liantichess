@@ -1,13 +1,12 @@
 [![Nodejs-CI](https://github.com/SriMethan/Liantichess/actions/workflows/nodejs.yml/badge.svg)](https://github.com/SriMethan/Liantichess/actions/workflows/nodejs.yml)
 
-## Liracingkings
+## LiRacingKings
 
-Liracingkings is a free, open-source antichess server designed to play antichess variants.
+LiRacingKings is a free, open-source antichess server designed to play Racing Kings.
 
 Currently supported games are:
 
-- [RacingKings](https://liatomic.herokuapp.com/variants/atomic)
-- [Atomic960](https://liatomic.herokuapp.com/variants/atomic960)
+- [RacingKings](https://li.herokuapp.com/variants)
 
 Additionally you can check Chess960 option in for Antichess
 [Chess960 castling rules](https://en.wikipedia.org/wiki/Chess960#Castling_rules)
